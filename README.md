@@ -1,5 +1,5 @@
 # OpenClassrooms - Quatrième projet
-Optimisez un site web existant
+Optimisez un site web existant.
 
 - Nom et Prénom : Grail Mathéo
 - Projet : #04
